@@ -10,15 +10,16 @@ Pasos para clonar, instalar y ejecutar la aplicación:
 1.  **Clonar el repositorio desde GitHub:**
     
     git clone https://github.com/dpadilla883/Actividad1_2P_Padilla_David.git
+    
     cd hotel-app
     
 
-2.  **Instalar las dependencias del proyecto:**
+3.  **Instalar las dependencias del proyecto:**
     
     npm install react-router-dom
     
 
-3.  **Iniciar la aplicación en modo de desarrollo:**
+4.  **Iniciar la aplicación en modo de desarrollo:**
     
     npm run dev   
     
