@@ -11,7 +11,7 @@ Pasos para clonar, instalar y ejecutar la aplicación:
     
     git clone https://github.com/dpadilla883/Actividad1_2P_Padilla_David.git
     
-    cd hotel-app
+    cd Actividad1_2P_Padilla_David
     
 
 3.  **Instalar las dependencias del proyecto:**
